@@ -1,18 +1,20 @@
 A
-<<<<<<< HEAD
 E
 I
 O
 U
 
+>>vogais invertidas adicionadas
 
 U
 O
 I
 E
 A
-=======
+
+>>ALFABETO
+
+A
 B
 C
 D
->>>>>>> LETRAS
